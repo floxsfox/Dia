@@ -10,7 +10,7 @@ permissions:
 
 env:
   # Versi Godot yang dipakai build. Ganti bila perlu (harus sudah ada di godot-builds). Minimal 4.6.
-  GODOT_VERSION: "4.6"
+  GODOT_VERSION: "4.6.2"
 
 jobs:
   apk:
